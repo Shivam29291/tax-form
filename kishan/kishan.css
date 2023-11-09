@@ -1,0 +1,79 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+   
+}
+body{
+    width:100vw;
+    height: 100vh;
+}
+.header{
+    display: flex;
+    padding: 50px ;
+    gap: 60vw;
+}
+.logo{
+    width: 100px;
+    margin-left:20px;
+    
+}
+.Invoice{
+    padding: 15px 15px;
+}
+.contact{
+    width: 80vw;
+    border: 1px solid;
+    border-color: black;
+    margin-left: 30px;
+}
+.comp-name{
+    margin-top: -20px;
+    margin-bottom: 10px;
+}
+.two{
+    display: flex;
+    gap: 30vw;
+    padding: 15px 15px;
+
+}
+.bold{
+    font-size: 20px;
+}
+.table{
+    width: 80vw;
+   margin-left: 30px;
+   margin-top: 20px;
+}
+.tbody{
+    text-align: center;
+}
+.three{
+    width: 80vw;
+    display: flex;
+    margin-left: 30px;
+    margin-top: 20px;
+    padding: 15px 15px;
+    border: 1px solid black;
+    
+}
+.three2{
+    margin-left: 30vw;
+    display: flex;
+    flex-direction: column;
+}
+.sign{
+    text-align: center;
+    margin-top: 15px;
+    border: 1px solid black;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 35px;
+}
+.fourth{
+    border: 1px solid black;
+    width: 80vw;
+    margin-left: 30px;
+    margin-top: 20px;
+    padding: 15px 15px;
+}
